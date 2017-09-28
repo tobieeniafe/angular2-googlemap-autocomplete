@@ -1,0 +1,15 @@
+.body{
+	height: 100vh;
+	padding: 50px;
+	margin: auto;
+}
+
+input{
+	width: 70vw !important;
+}
+
+agm-map {
+  height: 70vh;
+  width: 70vw;
+  margin: 20px;
+}

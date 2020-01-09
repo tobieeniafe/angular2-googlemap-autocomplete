@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## About
 
-Quickstart Angular 2 Autocomplete app
+A Quickstart to integrate Google Maps Autocomplete to your Angular 2+ app
 
 ## Credit
 
